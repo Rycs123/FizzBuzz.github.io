@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Fizz Buzz</title>
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    <body>
+        <section id="FizzBuzz">
+            <h1>Get a FizzBuzz Result</h1>
+            <form id="fizzBuzzForm"">
+                <label for="inputNumber">Type a number</label>
+                <!-- Pada tag input dengan atribut required
+                    berfungsi untuk menentukan bahwa
+                    input tersebut harus diisi sebelum
+                    formulir dapat disubmit.Dengan
+                    menggunakan atribut required,
+                    browser akan memvalidasi input dan akan
+                    menampilkan pesan kesalahan jika input
+                    tidak diisi sebelum mengirim formulir. -->
+                <input type="number" id="inputNumber" required/>
+                <button type="submit">
+                    Click Here!
+                </button>
+            </form>
+        </section>
+        <section id="result"></section>
+        <script src="script.js"></script>
+    </body>
+</html>

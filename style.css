@@ -1,0 +1,10 @@
+h1 {
+    font-size: 40px;
+    margin: 0;
+    padding-bottom: 40px;
+}
+
+#FizzBuzz {
+    border-bottom: 2px solid grey;
+    padding-bottom: 10px;
+}
