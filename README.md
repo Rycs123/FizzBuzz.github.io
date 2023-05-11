@@ -5,4 +5,4 @@
     keduanya kelipatan 3 dan kelipatan 5: Keluaran FizzBuzz
     Kasus lain: Keluarkan nomor apa adanya
 
-    https://rycs123.github.io/FizzBuzz.github.io/
+ https://rycs123.github.io/FizzBuzz.github.io/
